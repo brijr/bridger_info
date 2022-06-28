@@ -25,4 +25,10 @@
             Notion
         </p>
     </a>
+    <a class="text-center" href="https://dribbble.com/brijr">
+        <p class="shadow-lg transition-all rounded-3xl text-center w-full text-black hover:bg-slate-600 hover:text-white bg-slate-300 py-3 px-6">
+            Dribbble
+        </p>
+    </a>
 </div>
+
