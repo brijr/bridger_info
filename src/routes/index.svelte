@@ -22,7 +22,7 @@
     <a href="https://brijr.dev">I'm</a> a Creative Developer living in Salt Lake City, Utah! I specialize in <a class="hover:text-orange-200 text-orange-300" href="https://webflow.com">Webflow</a>, <a class="hover:text-orange-200 text-orange-300" href="https://svelte.dev">SvelteKit</a>, and <a class="hover:text-orange-200 text-orange-300"  href="https://wordpress.com">Wordpress</a>.
 </h2>
 
-<p class="py-4">I'm passionate about design, product, technology, usability, branding, and marketing. I obtained a Bachelor's in Advertising and Marketing from <a class="hover:text-orange-200 text-orange-300" href="https://byu.edu">Brigham Young University</a> and I am currently obtaining a Master's degree in Product Managment at the <a class="hover:text-orange-200 text-orange-300" href="https://umd.edu">University of Maryland</a>.</p>
+<p class="py-4">I'm passionate about design, product, technology, usability, branding, and marketing. I obtained a Bachelor's in Advertising and Marketing from <a class="hover:text-orange-200 text-orange-300" href="https://byu.edu">Brigham Young University</a> and I am currently obtaining a Master's degree in Product Managment and Development at the <a class="hover:text-orange-200 text-orange-300" href="https://umd.edu">University of Maryland</a>.</p>
 
 <p class="pb-4">I currently work at <a class="hover:text-orange-200 text-orange-300" href="https://tackle.io">Tackle.io</a> as Creative Web Developer on the Brand and Marketing team. I also own <a class="hover:text-orange-200 text-orange-300" href="https://ziondesign.io">Zion Design</a> a web design and development company located in Draper, Utah. I've worked with hundreds of clients on projects big and small.</p>
 
