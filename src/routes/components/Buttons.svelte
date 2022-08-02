@@ -15,7 +15,7 @@
             Webflow
         </p>
     </a>
-    <a class="text-center" href="https://brijr.medium.com">
+    <a class="text-center" href="https://brijr.dev/blog">
         <p class="transition-all rounded-xl text-center w-full text-black hover:bg-slate-600 hover:text-white bg-slate-300 py-3 px-6">
             Articles and Blog
         </p>
