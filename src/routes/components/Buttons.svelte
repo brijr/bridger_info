@@ -30,5 +30,10 @@
             Dribbble
         </p>
     </a>
+    <a class="text-center" href="https://wavehouse.xyz/">
+        <p class="transition-all rounded-xl text-center w-full text-black hover:bg-slate-600 hover:text-white bg-slate-300 py-3 px-6">
+            Founder at WaveHouse
+        </p>
+    </a>
 </div>
 
